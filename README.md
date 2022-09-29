@@ -1,5 +1,11 @@
 # Computational-Linguistics-II-Report
 
+## Corpus Structure
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 
 ## Pipeline:
@@ -7,6 +13,7 @@
 - **Automatic morphosyntactic parsing and manual revision** using UD Annotatrix
 - **Interannotator Agreement** with a colleague
 - **Disagreements resolution** and **Gold Corpus creation**
+- **isdt and postwita Validation**
 
 ## Interannotator Agreement Results
 
