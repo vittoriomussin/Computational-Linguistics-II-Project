@@ -144,24 +144,22 @@ Arte
 
 
 ## Annotators disagreements analysis
-### POS
-Cucina
-|DET - NOUN |AUX-VERB |ADJ - VERB| ADV - NOUN|
-| ------------- | ------------- | ------------- | ------------- |
-|23% |23% |10% |8%|
+> ### POS
+> Cucina
+> |DET - NOUN |AUX-VERB |ADJ - VERB| ADV - NOUN|
+> | ------------- | ------------- | ------------- | ------------- |
+> |23% |23% |10% |8%|
+> Arte
+> |NOUN - PROPN| AUX - VERB |ADJ - NOUN |ADJ - VERB |
+> | ------------- | ------------- | ------------- | ------------- |
+> |23% |19%| 15% |11% |
 
-Arte
-|NOUN - PROPN| AUX - VERB |ADJ - NOUN |ADJ - VERB |
-| ------------- | ------------- | ------------- | ------------- |
-|23% |19%| 15% |11% |
-
-### dep
-Cucina
-|appos - nummod| nmod - obl |amod - compound| obj - xcomp |
-| ------------- | ------------- | ------------- | ------------- |
-|4.8% |4.4% |4% |3.5% |
-
-Arte
-|nmod - obl |appos - nmod |flat:name - nmod |advmod - case|
-| ------------- | ------------- | ------------- | ------------- |
-|5.7% |4.7% |4.7% |4.7% |
+> ### dep
+> Cucina
+> |appos - nummod| nmod - obl |amod - compound| obj - xcomp |
+> | ------------- | ------------- | ------------- | ------------- |
+> |4.8% |4.4% |4% |3.5% |
+> Arte
+> |nmod - obl |appos - nmod |flat:name - nmod |advmod - case|
+> | ------------- | ------------- | ------------- | ------------- |
+> |5.7% |4.7% |4.7% |4.7% |
