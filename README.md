@@ -112,20 +112,56 @@ Arte
 |21% |7% |
 
 ### Postwita
-Cucina VERB - NOUN ADJ - NOUN ADJ - VERB DET - PRON 15% 14% 12% 9% Arte ADJ - NOUN DET - NUM DET - PRON ADJ - VERB 19% 18% 9% 8%
+Cucina
+|VERB - NOUN |ADJ - NOUN |ADJ - VERB |DET - PRON|
+| ------------- | ------------- | ------------- | ------------- |
+|15% |14% |12% |9% |
 
-Cucina nmod - obl amod - obj nummod  - det  ccomp - xcomp 6% 3% 2% 2% Arte nmod - obl nummod - det  case - flat:name case - fixed 8% 7% 2% 2%
+Arte
+|ADJ - NOUN |DET - NUM |DET - PRON |ADJ - VERB|
+| ------------- | ------------- | ------------- | ------------- |
+|19% |18% |9% |8%|
 
-Cucina    l’ - il fara - farina d’ - di  la - lo 6% 4% 4% 4% Arte    l’ - il  li - il gentile - Gentile le - il  17% 9% 6% 3% 
+Cucina
+|nmod - obl |amod - obj |nummod  - det|  ccomp - xcomp|
+| ------------- | ------------- | ------------- | ------------- |
+|6% |3% |2% |2% |
+
+Arte 
+|nmod - obl| nummod - det | case - flat:name |case - fixed |
+| ------------- | ------------- | ------------- | ------------- |
+|8% |7% |2% |2%|
+
+Cucina
+|l’ - il |fara - farina |d’ - di | la - lo |
+| ------------- | ------------- | ------------- | ------------- |
+|6%| 4% |4% |4% |
+
+Arte
+|l’ - il | li - il| gentile - Gentile |le - il |
+| ------------- | ------------- | ------------- | ------------- |
+|17% |9% |6% |3% |
 
 
 ## Annotators disagreements analysis
 ### POS
-Cucina DET - NOUN AUX-VERB ADJ - VERB ADV - NOUN 23% 23% 10% 8%
+Cucina
+|DET - NOUN |AUX-VERB |ADJ - VERB| ADV - NOUN|
+| ------------- | ------------- | ------------- | ------------- |
+|23% |23% |10% |8%|
 
-Arte NOUN - PROPN AUX - VERB ADJ - NOUN ADJ - VERB 23% 19% 15% 11% 
+Arte
+|NOUN - PROPN| AUX - VERB |ADJ - NOUN |ADJ - VERB |
+| ------------- | ------------- | ------------- | ------------- |
+|23% |19%| 15% |11% |
 
 ### dep
-Cucina appos - nummod nmod - obl amod - compound obj - xcomp 4.8% 4.4% 4% 3.5% 
+Cucina
+|appos - nummod| nmod - obl |amod - compound| obj - xcomp |
+| ------------- | ------------- | ------------- | ------------- |
+|4.8% |4.4% |4% |3.5% |
 
-Arte nmod - obl appos - nmod flat:name - nmod advmod - case 5.7% 4.7% 4.7% 4.7% 
+Arte
+|nmod - obl |appos - nmod |flat:name - nmod |advmod - case|
+| ------------- | ------------- | ------------- | ------------- |
+|5.7% |4.7% |4.7% |4.7% |
