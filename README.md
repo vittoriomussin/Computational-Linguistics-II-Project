@@ -2,10 +2,10 @@
 
 ## Corpus Structure
 
-|  | Cooking Texts | Art Texts |
-| ------------- | ------------- | ------------- |
-| **Size**  | Content Cell  | Content Cell  |
-| **Year**  | Content Cell  | Content Cell  |
+|  | Cooking Texts |  |  | Art Texts |  |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| **Size** (in characters) | Content Cell  | 6.826  | 6.826  | 3.448 | 3.378  |
+| **Year**  | Content Cell  | Content Cell  | 6.826  | 1969  | 2009  |
 
 
 ## Pipeline:
