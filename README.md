@@ -17,17 +17,17 @@
 
 ## Interannotator Agreement Results
 
-### Part Of Speech
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+### Part Of Speech (Cohen's kappa)
+|  | Cooking Texts |  |  | Art Texts |  |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| **Average observed agreement** | 0.97  | 0.96  | 0.97  | 0.97 | 0.96  |
+| **Cohen's kappa**  | 0.97  | 0.96  | 0.96  | 0.97  | 0.96  |
 
 ### Dependency Reletions
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+|  | Cooking Texts |  |  | Art Texts |  |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| **Average observed agreement** | 3.164  | 3.031  | 3.112  | 3.448 | 3.378  |
+| **Cohen's kappa**  | 1907  | 1927  | 1947  | 1969  | 2009  |
 
 ## Automatic Parsing Error Analysis
 
