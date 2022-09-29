@@ -9,7 +9,7 @@
 
 
 ## Pipeline:
-- **Automatic sentence splitting/tokenization and manual revision**
+- **Automatic sentence splitting-tokenization and manual revision**
 - **Automatic morphosyntactic parsing and manual revision** using UD Annotatrix
 - **Interannotator Agreement** with a colleague
 - **Disagreements resolution** and **Gold Corpus creation**
