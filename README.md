@@ -17,6 +17,13 @@
 
 ## Interannotator Agreement Results
 
+### Part Of Speech
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+### Dependency Reletions
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
