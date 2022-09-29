@@ -58,5 +58,43 @@
 ## Automatic Parsing Error Analysis
 
 - **Sentence Splitting and Tokenization**
+
+Cucina: (nella quale sono presenti molti clitici)
+ centosessantamaniere boni lazzariturco 
+ Clitici correttamente segmentati 
+ 44% 63% 33% 
+ N° totale di clitici 
+ 36 8 18 
+
 - **POS and dep**
+
+Cucina Arte
+centosessantamaniere boni lazzariturco argan pinelli 
+Casi di root corretta 
+90% 96% 74% 73% 76% 
+N° totale di frasi 29 28 31 15 17 
+
+Cause del mancoato riconoscimento della root:
+POS scorretta 
+Subordinate prima della principale 
+Frasi scisse e nominali 
+50% 
+15% 
+35% 
+
+### ISDT
+Cucina VERB - ADJ DET - PRON VERB - NOUN NOUN - ADJ  17% 13% 11% 10% Arte NOUN - ADJ  VERB - ADJ AUX - VERB PRON - SCONJ 27% 20% 13% 10% 
+
+Cucina nmod - obl nsubj - obj det - obj obj - obl 9% 3% 3% 3% Arte nmod - obl case - fixed case - flat:name nmod - appos  9% 5% 4% 4% 
+
+Cucina  il - lo dosare - dosato 10% 3% Arte  gentile - Gentile suddividere - suddiviso 21% 7% 
+
+### Postwita
+Cucina VERB - NOUN ADJ - NOUN ADJ - VERB DET - PRON 15% 14% 12% 9% Arte ADJ - NOUN DET - NUM DET - PRON ADJ - VERB 19% 18% 9% 8%
+
+Cucina nmod - obl amod - obj nummod  - det  ccomp - xcomp 6% 3% 2% 2% Arte nmod - obl nummod - det  case - flat:name case - fixed 8% 7% 2% 2%
+
+Cucina    l’ - il fara - farina d’ - di  la - lo 6% 4% 4% 4% Arte    l’ - il  li - il gentile - Gentile le - il  17% 9% 6% 3% 
+
+
 ## Annotators disagreements analysis
