@@ -59,8 +59,16 @@
 
 - **Sentence Splitting and Tokenization**
 
+|  | Cooking Texts |  |  |
+| ------------- | ------------- | ------------- | ------------- |
+| **correctly parsed clitics** | 44%  | 63%  | 33%  |
+| **n° of clitics**  | 36 | 8  | 18 |
+
 Cucina: (nella quale sono presenti molti clitici)
- centosessantamaniere boni lazzariturco 
+ centosessantamaniere boni lazzariturco
+ 
+ 
+ 
  Clitici correttamente segmentati 
  44% 63% 33% 
  N° totale di clitici 
