@@ -59,36 +59,24 @@
 
 - **Sentence Splitting and Tokenization**
 
-|  | Cooking Texts |  |  |
+|  | Cooking Texts (in wich there are most of the clitics) |  |  |
 | ------------- | ------------- | ------------- | ------------- |
 | **correctly parsed clitics** | 44%  | 63%  | 33%  |
 | **n° of clitics**  | 36 | 8  | 18 |
-
-Cucina: (nella quale sono presenti molti clitici)
- centosessantamaniere boni lazzariturco
- 
- 
- 
- Clitici correttamente segmentati 
- 44% 63% 33% 
- N° totale di clitici 
- 36 8 18 
+| **Year**  | 1907  | 1927  | 1947  |
 
 - **POS and dep**
 
-Cucina Arte
-centosessantamaniere boni lazzariturco argan pinelli 
-Casi di root corretta 
-90% 96% 74% 73% 76% 
-N° totale di frasi 29 28 31 15 17 
+|  | Cooking Texts |  |  | Art Texts |  |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| **correctly parsed roots** | 90% | 96%  |74%  | 73% | 76%  |
+| **n° of sentences**  | 29  | 28  | 31  | 15  | 17  |
+| **Year**  | 1907  | 1927  | 1947  | 1969  | 2009  |
 
-Cause del mancoato riconoscimento della root:
-POS scorretta 
-Subordinate prima della principale 
-Frasi scisse e nominali 
-50% 
-15% 
-35% 
+Causes of error in root recognition
+|  | Scorrect POS | Subordinates before root sentence | Nominal and "Scissa" sentences |
+| ------------- | ------------- | ------------- | ------------- |
+| **Cases** | 50%  | 15%  | 35%  |
 
 ### ISDT
 Cucina VERB - ADJ DET - PRON VERB - NOUN NOUN - ADJ  17% 13% 11% 10% Arte NOUN - ADJ  VERB - ADJ AUX - VERB PRON - SCONJ 27% 20% 13% 10% 
