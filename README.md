@@ -79,11 +79,37 @@ Causes of error in root recognition
 | **Cases** | 50%  | 15%  | 35%  |
 
 ### ISDT
-Cucina VERB - ADJ DET - PRON VERB - NOUN NOUN - ADJ  17% 13% 11% 10% Arte NOUN - ADJ  VERB - ADJ AUX - VERB PRON - SCONJ 27% 20% 13% 10% 
 
-Cucina nmod - obl nsubj - obj det - obj obj - obl 9% 3% 3% 3% Arte nmod - obl case - fixed case - flat:name nmod - appos  9% 5% 4% 4% 
 
-Cucina  il - lo dosare - dosato 10% 3% Arte  gentile - Gentile suddividere - suddiviso 21% 7% 
+Cucina 
+|VERB - ADJ |DET - PRON| VERB - NOUN |NOUN - ADJ |
+| ------------- | ------------- | ------------- | ------------- |
+|17%| 13% |11% |10% |
+
+Arte 
+|NOUN - ADJ  |VERB - ADJ |AUX - VERB |PRON - SCONJ |
+| ------------- | ------------- | ------------- | ------------- |
+|27% |20% |13%| 10% |
+
+Cucina
+|nmod - obl |nsubj - obj |det - obj |obj - obl|
+| ------------- | ------------- | ------------- | ------------- |
+|9% |3% |3% |3% |
+
+Arte 
+|nmod - obl |case - fixed| case - flat:name |nmod - appos  |
+| ------------- | ------------- | ------------- | ------------- |
+|9% |5% |4% |4% |
+
+Cucina  
+|il - lo |dosare - dosato |
+| ------------- | ------------- |
+|10%| 3% |
+
+Arte
+|gentile - Gentile |suddividere - suddiviso |
+| ------------- | ------------- |
+|21% |7% |
 
 ### Postwita
 Cucina VERB - NOUN ADJ - NOUN ADJ - VERB DET - PRON 15% 14% 12% 9% Arte ADJ - NOUN DET - NUM DET - PRON ADJ - VERB 19% 18% 9% 8%
