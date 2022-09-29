@@ -15,9 +15,20 @@
 - **Disagreements resolution** and **Gold Corpus creation**
 - **ISDT and Postwita Validation**
 
-## ISDT Validation
+## Validation Results
 
-## Postwita Validation
+### ISDT
+|  | Cooking Texts |  |  | Art Texts |  |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| **UPOS** | 94.74  | 97.44  | 90.56  | 96.28 | 96.31  |
+| **XPOS**  | 0.97  | 0.96  | 0.96  | 0.97  | 0.96  |
+| **UFeats**  | 0.97  | 0.96  | 0.96  | 0.97  | 0.96  |
+| **Lemmas**  | 0.97  | 0.96  | 0.96  | 0.97  | 0.96  |
+| **UAS**  | 0.97  | 0.96  | 0.96  | 0.97  | 0.96  |
+| **LAS**  | 0.97  | 0.96  | 0.96  | 0.97  | 0.96  |
+| **BLEX**  | 0.97  | 0.96  | 0.96  | 0.97  | 0.96  |
+| **Year**  | **1907**  | **1927**  | **1947**  | **1969**  | **2009**  |
+### Postwita
 
 ## Interannotator Agreement Results
 
