@@ -80,7 +80,8 @@ Causes of error in root recognition
 
 ### ISDT
 
-> ###POS
+> ### **POS**
+> 
 > Cucina 
 > |VERB - ADJ |DET - PRON| VERB - NOUN |NOUN - ADJ |
 > | ------------- | ------------- | ------------- | ------------- |
@@ -91,7 +92,8 @@ Causes of error in root recognition
 > | ------------- | ------------- | ------------- | ------------- |
 > |27% |20% |13%| 10% |
 
-> ###dep
+> ### **dep**
+> 
 > Cucina
 > |nmod - obl |nsubj - obj |det - obj |obj - obl|
 > | ------------- | ------------- | ------------- | ------------- |
@@ -102,7 +104,8 @@ Causes of error in root recognition
 > | ------------- | ------------- | ------------- | ------------- |
 > |9% |5% |4% |4% |
 
-> ###Lemma
+> ### **Lemma**
+> 
 > Cucina  
 > |il - lo |dosare - dosato |
 > | ------------- | ------------- |
@@ -114,7 +117,8 @@ Causes of error in root recognition
 > |21% |7% |
 
 ### Postwita
-> ###POS
+> ### **POS**
+> 
 > Cucina
 > |VERB - NOUN |ADJ - NOUN |ADJ - VERB |DET - PRON|
 > | ------------- | ------------- | ------------- | ------------- |
@@ -125,7 +129,8 @@ Causes of error in root recognition
 > | ------------- | ------------- | ------------- | ------------- |
 > |19% |18% |9% |8%|
 
-> ###dep
+> ### **dep**
+> 
 > Cucina
 > |nmod - obl |amod - obj |nummod  - det|  ccomp - xcomp|
 > | ------------- | ------------- | ------------- | ------------- |
@@ -136,7 +141,8 @@ Causes of error in root recognition
 > | ------------- | ------------- | ------------- | ------------- |
 > |8% |7% |2% |2%|
 
-> ###Lemma
+> ### **Lemma**
+> 
 > Cucina
 > |l’ - il |fara - farina |d’ - di | la - lo |
 > | ------------- | ------------- | ------------- | ------------- |
@@ -149,7 +155,8 @@ Causes of error in root recognition
 
 
 ## Annotators disagreements analysis
-> ### POS
+> ### **POS**
+> 
 > Cucina
 > |DET - NOUN |AUX-VERB |ADJ - VERB| ADV - NOUN|
 > | ------------- | ------------- | ------------- | ------------- |
@@ -160,7 +167,8 @@ Causes of error in root recognition
 > | ------------- | ------------- | ------------- | ------------- |
 > |23% |19%| 15% |11% |
 
-> ### dep
+> ### **dep**
+> 
 > Cucina
 > |appos - nummod| nmod - obl |amod - compound| obj - xcomp |
 > | ------------- | ------------- | ------------- | ------------- |
