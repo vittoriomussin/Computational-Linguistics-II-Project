@@ -2,10 +2,10 @@
 
 ## Corpus Structure
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+|  | Cooking Texts | Art Texts |
+| ------------- | ------------- | ------------- |
+| Size  | Content Cell  | Content Cell  |
+| Year  | Content Cell  | Content Cell  |
 
 
 ## Pipeline:
@@ -13,7 +13,7 @@
 - **Automatic morphosyntactic parsing and manual revision** using UD Annotatrix
 - **Interannotator Agreement** with a colleague
 - **Disagreements resolution** and **Gold Corpus creation**
-- **isdt and postwita Validation**
+- **ISDT and Postwita Validation**
 
 ## Interannotator Agreement Results
 
