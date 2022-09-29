@@ -149,6 +149,7 @@ Arte
 > |DET - NOUN |AUX-VERB |ADJ - VERB| ADV - NOUN|
 > | ------------- | ------------- | ------------- | ------------- |
 > |23% |23% |10% |8%|
+> 
 > Arte
 > |NOUN - PROPN| AUX - VERB |ADJ - NOUN |ADJ - VERB |
 > | ------------- | ------------- | ------------- | ------------- |
@@ -159,6 +160,7 @@ Arte
 > |appos - nummod| nmod - obl |amod - compound| obj - xcomp |
 > | ------------- | ------------- | ------------- | ------------- |
 > |4.8% |4.4% |4% |3.5% |
+> 
 > Arte
 > |nmod - obl |appos - nmod |flat:name - nmod |advmod - case|
 > | ------------- | ------------- | ------------- | ------------- |
