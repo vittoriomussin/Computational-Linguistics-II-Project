@@ -4,8 +4,8 @@
 
 |  | Cooking Texts | Art Texts |
 | ------------- | ------------- | ------------- |
-| Size  | Content Cell  | Content Cell  |
-| Year  | Content Cell  | Content Cell  |
+| **Size**  | Content Cell  | Content Cell  |
+| **Year**  | Content Cell  | Content Cell  |
 
 
 ## Pipeline:
