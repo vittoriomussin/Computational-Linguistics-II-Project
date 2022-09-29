@@ -27,8 +27,8 @@
 ### Dependency Reletions
 |  | Cooking Texts |  |  | Art Texts |  |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| **Average observed agreement** | 3.164  | 3.031  | 3.112  | 3.448 | 3.378  |
-| **Cohen's kappa**  | 1907  | 1927  | 1947  | 1969  | 2009  |
+| **Average observed agreement** | 0.85  | 0.80  | 0.83  | 0.88  | 0.87  |
+| **Cohen's kappa**  | 0.85  | 0.79  | 0.83  | 0.88  | 0.87  |
 | **Year**  | 1907  | 1927  | 1947  | 1969  | 2009  |
 
 ## Automatic Parsing Error Analysis
