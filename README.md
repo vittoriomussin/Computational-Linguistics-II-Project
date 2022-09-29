@@ -15,9 +15,13 @@
 - **Disagreements resolution** and **Gold Corpus creation**
 - **ISDT and Postwita Validation**
 
+## ISDT Validation
+
+## Postwita Validation
+
 ## Interannotator Agreement Results
 
-### Part Of Speech (Cohen's kappa)
+### Part Of Speech
 |  | Cooking Texts |  |  | Art Texts |  |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | **Average observed agreement** | 0.97  | 0.96  | 0.97  | 0.97 | 0.96  |
@@ -35,5 +39,4 @@
 
 - **Sentence Splitting and Tokenization**
 - **POS and dep**
-- 
 ## Annotators disagreements analysis
