@@ -1,5 +1,26 @@
 # Computational-Linguistics-II-Project-Report
 
+Objective:
+- Construction of a gold corpus to evaluate the accuracy of
+analysis of an automatic linguistic annotation chain
+
+Methodology
+- Independent work:
+     - each student will construct their own gold corpus
+    - each student will deliver his/her own final report
+- Parallel work, in pairs:
+    - comparison of individual revised corpora to create a single gold corpus
+
+Work phases:
+1. Downloading the language annotation chain (UDPipe).
+2. Automatic annotation of a textual corpus
+3. Manual review of automatic annotation
+4. Verification of agreement between two manual reviewers
+5. Use of the manually reviewed corpus for verification of the
+correctness of the automatic analysis using 2 UDPipe models
+trained on two different varieties of the Italian language
+
+
 ## Corpus Structure
 
 |  | Cooking Texts |  |  | Art Texts |  |
