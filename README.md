@@ -1,4 +1,4 @@
-# Computational-Linguistics-II-Project-Report
+# Computational-Linguistics-II-Project
 
 Objective:
 - Construction of a gold corpus to evaluate the accuracy of
