@@ -79,7 +79,7 @@ trained on two different varieties of the Italian language
 | **n° of sentences**  | 29  | 28  | 31  | 15  | 17  |
 | **Year**  | 1907  | 1927  | 1947  | 1969  | 2009  |
 
-> Causes of error in root recognition
+> **Causes of error in root recognition**
 > |  | Scorrect POS | Subordinates before root sentence | Nominal and Split sentences |
 > | ------------- | ------------- | ------------- | ------------- |
 > | **Cases** | 50%  | 15%  | 35%  |
