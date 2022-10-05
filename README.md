@@ -33,7 +33,7 @@ trained on two different varieties of the Italian language
 | **LAS**  | 78.05| 82.42 |70.43 | 84.65 | 85.08  |
 | **BLEX**  | 58.66 |67.19 |50.14  |76.73 |72.49 |
 | **Year**  | **1907**  | **1927**  | **1947**  | **1969**  | **2009**  |
-### Postwita
+### PoSTWITA
 | F1-Measure | Cooking Texts |  |  | Art Texts |  |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | **UPOS** | 87.48 |90.44 |89.63  | 91.28 |87.54  |
@@ -122,7 +122,7 @@ trained on two different varieties of the Italian language
 > | ------------- | ------------- |
 > |21% |7% |
 
-### Postwita  - Error Analysis (incorrect tag - correct tag)
+### PoSTWITA  - Error Analysis (incorrect tag - correct tag)
 > ### **POS**
 > 
 > Cooking Texts 
