@@ -4,20 +4,11 @@ Objective:
 - Construction of a gold corpus to evaluate the accuracy of
 analysis of an automatic linguistic annotation chain
 
-Methodology
-- Independent work:
-     - each student will construct their own gold corpus
-    - each student will deliver his/her own final report
-- Parallel work, in pairs:
-    - comparison of individual revised corpora to create a single gold corpus
-
 Work phases:
-1. Downloading the language annotation chain (UDPipe).
-2. Automatic annotation of a textual corpus
-3. Manual review of automatic annotation
-4. Verification of agreement between two manual reviewers
-5. Use of the manually reviewed corpus for verification of the
-correctness of the automatic analysis using 2 UDPipe models
+1. Automatic annotation of a textual corpus
+2. Manual review of automatic annotation
+3. Verification of agreement between two manual reviewers
+4. Use of the manually reviewed corpus for the validation of automatic analysis using 2 UDPipe models (ISDT & POSTwita)
 trained on two different varieties of the Italian language
 
 
@@ -28,13 +19,6 @@ trained on two different varieties of the Italian language
 | **Size** (in characters) | 3.164  | 3.031  | 3.112  | 3.448 | 3.378  |
 | **Year**  | 1907  | 1927  | 1947  | 1969  | 2009  |
 
-
-## Pipeline:
-- **Automatic sentence splitting-tokenization and manual revision**
-- **Automatic morphosyntactic parsing and manual revision** using UD Annotatrix
-- **Interannotator Agreement** with a colleague
-- **Disagreements resolution** and **Gold Corpus creation**
-- **ISDT and Postwita Validation**
 
 ## Validation Results
 
