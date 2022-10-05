@@ -84,7 +84,7 @@ trained on two different varieties of the Italian language
 > | ------------- | ------------- | ------------- | ------------- |
 > | **Cases** | 50%  | 15%  | 35%  |
 
-### ISDT
+### ISDT - Error Analysis (incorrect tag - correct tag)
 
 > ### **POS**
 > 
@@ -122,7 +122,7 @@ trained on two different varieties of the Italian language
 > | ------------- | ------------- |
 > |21% |7% |
 
-### Postwita
+### Postwita  - Error Analysis (incorrect tag - correct tag)
 > ### **POS**
 > 
 > Cooking Texts 
@@ -160,7 +160,7 @@ trained on two different varieties of the Italian language
 > |17% |9% |6% |3% |
 
 
-## Annotators disagreements analysis
+## Annotators disagreements analysis (Annotator_1 tag - Annotator_2 tag)
 > ### **POS**
 > 
 > Cooking Texts 
