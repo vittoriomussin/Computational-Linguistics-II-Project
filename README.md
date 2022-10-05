@@ -8,7 +8,7 @@ Work phases:
 1. Automatic annotation of a textual corpus
 2. Manual review of automatic annotation
 3. Verification of agreement between two manual reviewers
-4. Use of the manually reviewed corpus for the validation of automatic analysis using 2 UDPipe models (ISDT & POSTwita)
+4. Use of the manually reviewed corpus for the validation of automatic analysis using 2 UDPipe models (ISDT & PoSTWITA)
 trained on two different varieties of the Italian language
 
 
@@ -44,6 +44,7 @@ trained on two different varieties of the Italian language
 | **LAS**  | 67.23| 67.06| 65.63 | 70.60 |63.85 |
 | **BLEX**  | 47.38 |47.72 |42.05 |55.44 |45.95 |
 | **Year**  | **1907**  | **1927**  | **1947**  | **1969**  | **2009**  |
+
 ## Interannotator Agreement Results
 
 ### Part Of Speech
@@ -78,45 +79,45 @@ trained on two different varieties of the Italian language
 | **n° of sentences**  | 29  | 28  | 31  | 15  | 17  |
 | **Year**  | 1907  | 1927  | 1947  | 1969  | 2009  |
 
-Causes of error in root recognition
-|  | Scorrect POS | Subordinates before root sentence | Nominal and Split sentences |
-| ------------- | ------------- | ------------- | ------------- |
-| **Cases** | 50%  | 15%  | 35%  |
+> Causes of error in root recognition
+> |  | Scorrect POS | Subordinates before root sentence | Nominal and Split sentences |
+> | ------------- | ------------- | ------------- | ------------- |
+> | **Cases** | 50%  | 15%  | 35%  |
 
 ### ISDT
 
 > ### **POS**
 > 
-> Cucina 
+> Cooking Texts 
 > |VERB - ADJ |DET - PRON| VERB - NOUN |NOUN - ADJ |
 > | ------------- | ------------- | ------------- | ------------- |
 > |17%| 13% |11% |10% |
 > 
-> Arte 
+> Art Texts
 > |NOUN - ADJ  |VERB - ADJ |AUX - VERB |PRON - SCONJ |
 > | ------------- | ------------- | ------------- | ------------- |
 > |27% |20% |13%| 10% |
 
 > ### **dep**
 > 
-> Cucina
+> Cooking Texts 
 > |nmod - obl |nsubj - obj |det - obj |obj - obl|
 > | ------------- | ------------- | ------------- | ------------- |
 > |9% |3% |3% |3% |
 > 
-> Arte 
+> Art Texts
 > |nmod - obl |case - fixed| case - flat:name |nmod - appos  |
 > | ------------- | ------------- | ------------- | ------------- |
 > |9% |5% |4% |4% |
 
 > ### **Lemma**
 > 
-> Cucina  
+> Cooking Texts   
 > |il - lo |dosare - dosato |
 > | ------------- | ------------- |
 > |10%| 3% |
 > 
-> Arte
+> Art Texts
 > |gentile - Gentile |suddividere - suddiviso |
 > | ------------- | ------------- |
 > |21% |7% |
@@ -124,36 +125,36 @@ Causes of error in root recognition
 ### Postwita
 > ### **POS**
 > 
-> Cucina
+> Cooking Texts 
 > |VERB - NOUN |ADJ - NOUN |ADJ - VERB |DET - PRON|
 > | ------------- | ------------- | ------------- | ------------- |
 > |15% |14% |12% |9% |
 > 
-> Arte
+> Art Texts
 > |ADJ - NOUN |DET - NUM |DET - PRON |ADJ - VERB|
 > | ------------- | ------------- | ------------- | ------------- |
 > |19% |18% |9% |8%|
 
 > ### **dep**
 > 
-> Cucina
+> Cooking Texts 
 > |nmod - obl |amod - obj |nummod  - det|  ccomp - xcomp|
 > | ------------- | ------------- | ------------- | ------------- |
 > |6% |3% |2% |2% |
 > 
-> Arte 
+> Art Texts 
 > |nmod - obl| nummod - det | case - flat:name |case - fixed |
 > | ------------- | ------------- | ------------- | ------------- |
 > |8% |7% |2% |2%|
 
 > ### **Lemma**
 > 
-> Cucina
+> Cooking Texts 
 > |l’ - il |fara - farina |d’ - di | la - lo |
 > | ------------- | ------------- | ------------- | ------------- |
 > |6%| 4% |4% |4% |
 > 
-> Arte
+> Art Texts
 > |l’ - il | li - il| gentile - Gentile |le - il |
 > | ------------- | ------------- | ------------- | ------------- |
 > |17% |9% |6% |3% |
@@ -162,24 +163,24 @@ Causes of error in root recognition
 ## Annotators disagreements analysis
 > ### **POS**
 > 
-> Cucina
+> Cooking Texts 
 > |DET - NOUN |AUX-VERB |ADJ - VERB| ADV - NOUN|
 > | ------------- | ------------- | ------------- | ------------- |
 > |23% |23% |10% |8%|
 > 
-> Arte
+> Art Texts
 > |NOUN - PROPN| AUX - VERB |ADJ - NOUN |ADJ - VERB |
 > | ------------- | ------------- | ------------- | ------------- |
 > |23% |19%| 15% |11% |
 
 > ### **dep**
 > 
-> Cucina
+> Cooking Texts 
 > |appos - nummod| nmod - obl |amod - compound| obj - xcomp |
 > | ------------- | ------------- | ------------- | ------------- |
 > |4.8% |4.4% |4% |3.5% |
 > 
-> Arte
+> Art Texts
 > |nmod - obl |appos - nmod |flat:name - nmod |advmod - case|
 > | ------------- | ------------- | ------------- | ------------- |
 > |5.7% |4.7% |4.7% |4.7% |
